@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../JS01-PROJECT"
+		}
+	],
+	"extensions": {
+		"recommendations": [
+			"kennylong.kubernetes-yaml-formatter",
+			"ms-kubernetes-tools.vscode-kubernetes-tools"
+		]
+	}
+}
